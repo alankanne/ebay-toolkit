@@ -1,0 +1,41 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+Icon
+._*
+
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.whl
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+Pipfile.lock
+poetry.lock
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tokens / credentials
+tokens.json
+*.pem
+*.key
