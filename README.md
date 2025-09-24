@@ -1,6 +1,6 @@
 # eBay Automation Scripts
 
-A small toolkit of Python scripts I built to automate my resale business on eBay.  
+A small toolkit of Python scripts I built to automate aspects of my ebay resale business.  
 Instead of clicking through Seller Hub and dealing with the annoying UI, these scripts let me manage listings, run bulk updates, and pull useful analytics from the command line.
 
 ## Why I Built This
