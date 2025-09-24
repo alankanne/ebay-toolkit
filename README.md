@@ -46,7 +46,7 @@ Estimated fees: $15.47
 
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/ebay-automation-tools.git
+git clone https://github.com/alankanne/ebay-automation-tools.git
 cd ebay-automation-tools
 pip install -r requirements.txt
 ```
